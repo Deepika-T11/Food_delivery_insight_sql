@@ -13,8 +13,11 @@ It is designed as a practice project to strengthen SQL querying skills with real
 ## Project Structure
 
 Food_delivery_sql_project.sql → Contains all SQL queries for analysis.
+
 Dataset assumptions:
+
 Table used: ORDERS
+
 Key columns: Customer_code, Restaurant_id, Cuisine, Placed_at, Promo_code_Name
 ```sql
 
