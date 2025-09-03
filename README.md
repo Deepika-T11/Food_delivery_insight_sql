@@ -131,16 +131,23 @@ FROM cte;
 ### 🛠️ SQL Concepts Used
 
 CTEs (Common Table Expressions)
+
 Aggregate Functions (COUNT, SUM)
+
 Window Functions (ROW_NUMBER(), RANK())
+
 Filtering & Date Functions (MONTH(), YEAR(), CURDATE())
+
 Joins for promo tracking
 
 ### 💡 Key Insights
 
 Identifies top-performing restaurants by cuisine.
+
 Tracks customer acquisition trends and churn behavior.
+
 Measures the impact of promotions on customer retention.
+
 Helps growth teams with personalized engagement strategies.
 
 
